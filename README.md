@@ -10,6 +10,8 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 - Conhecimento em lógica de programação.💻
 - Experiência com Git e GitHub para controle de versão e colaboração.
 
+#
+
 
 ### Sinta-se à vontade para explorar meu GitHub e entrar em contato comigo para qualquer dúvida ou sugestão. Juntos, podemos construir o futuro da tecnologia!🚀
 
