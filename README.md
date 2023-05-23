@@ -3,7 +3,8 @@
 
 Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas áreas de interesse:
 
-- Ficcionado por **tecnologia** e entusiasta de programação.💻
+- Nerd por Natureza 🤓🖖🎮
+- Louco por **tecnologia** e entusiasta de programação.💻
 - Atualmente estudando **MySQL** para aprimorar minhas habilidades.🌱
 - Apaixonado por música durante o desenvolvimento.🎧
 - Aberto a colaborações e compartilhamento de conhecimento.👂
