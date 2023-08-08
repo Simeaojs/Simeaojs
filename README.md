@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 
 - Nerd por Natureza 🤓🖖🎮
 - Apaixonado por **tecnologia** e entusiasta de programação.💻
-- Atualmente estudando **Java** com foco no **BACK-AND** para aprimorar minhas habilidades.🌱
+- Atualmente estudando **Java** com foco no **BACK-END** para aprimorar minhas habilidades.🌱
 - Aberto a colaborações e compartilhamento de conhecimento.👂
 - Conhecimento em lógica de programação,Banco de Dados Relacionais|MySQL💻
 - Cursando Análise e Desenvolvmento de Sistemas👨‍💻
