@@ -6,7 +6,6 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 - Nerd por Natureza 🤓🖖🎮
 - Apaixonado por **tecnologia** e entusiasta de programação.💻
 - Atualmente estudando **MySQL** para aprimorar minhas habilidades.🌱
-- Apaixonado por música durante o desenvolvimento.🎧
 - Aberto a colaborações e compartilhamento de conhecimento.👂
 - Conhecimento em lógica de programação.💻
 - Experiência com Git e GitHub para controle de versão e colaboração.
