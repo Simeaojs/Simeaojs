@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 - Cursando Análise e Desenvolvmento de Sistemas👨‍💻
 - Conhecimento com Git e GitHub para controle de versão e colaboração.
 #
-## Tecnologias que Uso
+## 💻Tecnologias que Uso
 
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() 
 [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() 
@@ -26,22 +26,10 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 ### Sinta-se à vontade para explorar meu GitHub e entrar em contato comigo para qualquer dúvida ou sugestão.
 
 #
-### Contatos
+### 📧Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sime%C3%A3o-jose-silva8196784001/) 
 [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Http://simeãojs@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simeao_jose/) 
 
 
-<!--
-**Simeaojs/Simeaojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 Atualmente estou trabalhando em...
-- 🌱 Atualmente estou aprendendo...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre...
-- 📫 Como chegar até mim: ...
-- ⚡ Curiosidade: ...
--->
