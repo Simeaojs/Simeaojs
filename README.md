@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 - Cursando Análise e Desenvolvmento de Sistemas👨‍💻
 - Conhecimento com Git e GitHub para controle de versão e colaboração.
 #
-## Tecnologias que Uso!
+## Tecnologias que Uso
 
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() 
 [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() 
