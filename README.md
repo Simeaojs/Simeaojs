@@ -5,12 +5,14 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 
 - Nerd por Natureza 🤓🖖🎮
 - Apaixonado por **tecnologia** e entusiasta de programação.💻
-- Atualmente estudando **Java** e **Spring Boot** com foco no **BACK-END** para aprimorar minhas habilidades.🌱
-- Aberto a colaborações e compartilhamento de conhecimento.👂
-- Conhecimento em lógica de programação,Banco de Dados Relacionais|MySQL💻
-- Cursando Análise e Desenvolvmento de Sistemas👨‍💻
-- Conhecimento com Git e GitHub para controle de versão e colaboração.
-#
+- Possuo conhecimento em **Java** e **Spring Boot**, com foco no **BACK-END**.🌱
+- Certificado pelo programa Re/Start da Escola da Nuvem.
+- Obtive a certificação **Cloud Practitioner** da AWS. ☁️
+- Conhecimento em **Linux**.
+- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.👨‍💻
+- Conhecimento em lógica de programação, Banco de Dados Relacionais|MySQL💻
+- Experiência com Git e GitHub para controle de versão e colaboração.👂
+- Aberto a colaborações e compartilhamento de conhecimento.🤝
 ## 💻Tecnologias que Uso
 
 </div>
