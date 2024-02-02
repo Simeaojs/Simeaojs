@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 - Possuo conhecimento em **Java** e **Spring Boot**, com foco no **BACK-END**.🌱
 - Certificado pelo programa Re/Start da Escola da Nuvem.
 - Obtive a certificação **Cloud Practitioner** da AWS. ☁️
-- Conhecimento em **Linux**.
+- Conhecimento em **Linux**.🐧
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.👨‍💻
 - Conhecimento em lógica de programação, Banco de Dados Relacionais|MySQL💻
 - Experiência com Git e GitHub para controle de versão e colaboração.👂
@@ -27,6 +27,8 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </div>
+
+## Certificações 
 
 
 
