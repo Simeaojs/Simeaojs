@@ -30,8 +30,8 @@ Bem-vindo(a) ao meu GitHub. Aqui estão alguns tópicos sobre mim e minhas área
 
 ## Certificações 
 
-![](https://github.com/Simeaojs/imagens-/blob/main/aws-certified-cloud-practitioner%20(1).png)
-![](https://github.com/Simeaojs/imagens-/blob/main/aws-re-start-graduate%20(1).png)
+![](https://github.com/Simeaojs/imagens-/blob/main/imagens/aws-certified-cloud-practitioner%20(1).png)
+![](https://github.com/Simeaojs/imagens-/blob/main/imagens/aws-re-start-graduate%20(1).png)
 
 
 
